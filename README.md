@@ -17,7 +17,7 @@ Additionally, as part of the assessment you'll be asked to debug and explain sma
 - What is the syntax for a relative import path in Python?
 - How do you import code from a package in Python?
 
-## Programatic Python
+## Programmatic Python
 
 - What is a Python `list`? What are some common methods used by a `list`?
 - What is a `for` loop in Python? What is a `while` loop in Python?
