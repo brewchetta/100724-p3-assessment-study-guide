@@ -2,7 +2,7 @@
 
 The intention of this guide is to give you questions that may (or may not) be on the Phase 3 assessment.
 
-Additionally, as part of the assessment you'll be asked to debug and explain small portions of code related to these questions.
+Additionally, as part of the assessment you'll be asked to debug and explain small portions of code related to questions in the programmatic python and object oriented programming sections.
 
 ## Pipenv
 
@@ -16,16 +16,6 @@ Additionally, as part of the assessment you'll be asked to debug and explain sma
 - How do you import modules in Python?
 - What is the syntax for a relative import path in Python?
 - How do you import code from a package in Python?
-
-## SQL
-
-- What keywords allow us to create a table in SQL? What keywords delete a table?
-- What is a primary key and why is it important?
-- What keyword allows us to add a new row in SQL?
-- What keyword allows us to read rows in SQL? How can we filter for specific rows?
-- What keyword allows us to update a row in SQL?
-- What keyword allows us to delete a row in SQL?
-- What is a foreign key? Why is it important?
 
 ## Programatic Python
 
@@ -44,3 +34,13 @@ Additionally, as part of the assessment you'll be asked to debug and explain sma
 - What is a `class` method? What is a `class` variable?
 - What is an `instance` property? When do property functions (getter and setter) get called?
 - What is object inheritance? How can objects inherit from each other? What does the `super()` function do?
+
+## SQL
+
+- What keywords allow us to create a table in SQL? What keywords delete a table?
+- What is a primary key and why is it important?
+- What keyword allows us to add a new row in SQL?
+- What keyword allows us to read rows in SQL? How can we filter for specific rows?
+- What keyword allows us to update a row in SQL?
+- What keyword allows us to delete a row in SQL?
+- What is a foreign key? Why is it important?
