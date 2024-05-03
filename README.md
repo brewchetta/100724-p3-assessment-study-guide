@@ -7,9 +7,9 @@ Additionally, as part of the assessment you'll be asked to debug and explain sma
 ## Pipenv
 
 - What is a virtual environment? Why do we use them?
-- What is pipenv? What is the difference between pipenv and pip?
-- What does your pipfile contain and how does it relate to pipenv?
-- How would you add a new package using pipenv?
+- What is `pipenv`? What is the difference between `pipenv` and `pip`?
+- What does your `pipfile` contain and how does it relate to `pipenv`?
+- How would you add a new package using `pipenv`?
 
 ## Imports
 
